@@ -27,7 +27,7 @@ Applying machine learning for predictive analytics.
 
 **Data Science Libraries:** pandas, NumPy, matplotlib, scikit-learn
 
-****Others:**Jupyter, Git, Excel
+**Others:** Jupyter, Git, Excel
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or have any questions!
 
