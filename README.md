@@ -1,17 +1,29 @@
 ## Fathimath Shamrin Moosa Aboobacker - Data Analyst
-Welcome to my GitHub! I’m a data analyst specializing in Healthcare Analytics, Business Intelligence, and Data Visualization. I leverage tools like R, Python, SQL, Power BI, and Tableau to turn data into actionable insights that improve decision-making and operational efficiency.
+👋 Hi there! Welcome to my GitHub portfolio. I'm Fathimath Shamrin, a Data Analyst with 4+ years of experience in healthcare analytics, data visualization, and predictive modeling. I specialize in using Python, R, SQL, Power BI, and Tableau to transform complex data into actionable insights.
 
-**Key Areas of Expertise**
+## **About Me**
+I’m passionate about leveraging data to solve real-world problems and drive decision-making. Currently, I work as a Quality Executive & Quality Data Analyst at Prime Hospital, Dubai, where I’ve successfully:
 
-**Healthcare Analytics:** Analyzing KPIs, patient safety, compliance metrics, and process optimization.
+Reduced discharge delays by 15% through data-driven process optimization.
 
-**Data Analysis:** Statistical analysis, trend analysis, predictive modeling, and data cleaning.
+Improved insurance approval rates by 10% by enhancing physician documentation.
 
-**Data Visualization:** Creating interactive dashboards and reports using Power BI and Tableau.
+Supported multiple healthcare accreditations (ISO, HIMSS, ACHS) and award submissions.
 
-**Predictive Modeling & Machine Learning:** Building models to predict trends and optimize processes.
+I hold a Master’s degree in Statistics and am skilled in data cleaning, predictive analytics, and dashboard creation. I’m always eager to learn and apply new technologies to solve complex problems.
 
-**Projects**
+## **Skills**
+**Technical Skills**
+Programming Languages: Python, R, SQL
+
+Data Visualization: Power BI, Tableau, Excel (Advanced)
+
+Data Analysis: Data Cleaning, Predictive Analytics, Statistical Modeling, Trend Analysis
+
+Healthcare Analytics: KPI Monitoring, Patient Safety, Process Optimization
+
+**Soft Skills**
+Problem-Solving | Critical Thinking | Attention to Detail | Cross-Functional Collaboration
 
 Here you'll find a collection of projects that showcase my skills in:
 Data analysis with Python and R.
@@ -19,29 +31,58 @@ Healthcare-related analytics focusing on performance metrics and operational imp
 Creating insightful dashboards and reports.
 Applying machine learning for predictive analytics.
 
-**Tools & Technologies**
+## **Projects**
+Here are some of the projects I’ve worked on:
 
-**Programming Languages:** R, Python, SQL
+**1. Logistic Regression Model for Coronary Heart Disease Prediction**
+**Description:** Developed a predictive model using R to identify the likelihood of coronary heart disease with 85% accuracy.
 
-**Data Visualization Tools:** Power BI, Tableau
+**Tools Used:** R, Logistic Regression, Data Visualization
 
-**Data Science Libraries:** pandas, NumPy, matplotlib, scikit-learn
+**Outcome:** Ranked as the highest-scoring project in my Master's batch.
 
-**Others:** Jupyter, Git, Excel
+View Code
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or have any questions!
+**2. Discharge Time Optimization Analysis**
+**Description:** Analyzed discharge data at Prime Hospital to identify bottlenecks and reduce discharge delays by 15%.
 
-<!--
-**fathimathshamrin/fathimathshamrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools Used:** Python, SQL, Excel, Power BI
 
-Here are some ideas to get you started:
+**Outcome:** Improved patient flow and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+View Dashboard
+
+**3. Physician Documentation Audit**
+**Description:** Monitored OPPE KPIs for physician documentation, improving insurance approval rates by 10%.
+
+**Tools Used:** Power BI, Excel, Data Visualization
+
+**Outcome:** Reduced insurance rejections and improved compliance.
+
+View Report
+
+## **Certifications**
+Introduction to Tableau (Simplilearn, 2024)
+
+Microsoft Power BI for Beginners (Simplilearn, 2024)
+
+Data Science & Analytics – Ivy Pro School (Python, SQL, R, Excel, Advanced Excel)
 -->
+## **How to Navigate This Repository**
+**Projects Folder:** Contains code, datasets, and reports for each project.
+
+**Dashboards Folder:** Includes interactive dashboards created using Power BI and Tableau.
+
+**Resume:** Download my updated CV here.
+
+## **Connect with Me**
+Let’s collaborate! Feel free to reach out:
+
+**Email:** fathimathshamrin.dxb@gmail.com
+
+**LinkedIn:** linkedin.com/in/fathimathshamrin
+
+**GitHub:** github.com/fathimathshamrin
+
+## **License**
+This project is licensed under the MIT License. See the LICENSE file for details.
